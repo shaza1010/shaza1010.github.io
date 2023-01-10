@@ -335,7 +335,7 @@ input, textarea {
     border: transparent;
     border-bottom: 1px solid black;
     border-radius: 5px;
-    transition: all 0.7s;
+    transition: border-color 0.7s;
 }
 input{
     width: 90%;
