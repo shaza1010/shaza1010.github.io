@@ -64,13 +64,16 @@ a {
 	color: white;
 }
 .footer{
-    color: white;
+	color: white;
     text-align: center;
     letter-spacing: 5px;
     word-spacing: 3px;
     display: flex;
     align-items: center;
     justify-content: center;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
 }
 #subpage .footer{
     color: #000000;
